@@ -317,11 +317,21 @@
   const flame = '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M13 2c1 3-1 4-2 6-1 2 0 4 2 4 1.2 0 2-1 2-2 2 1.5 3.5 4 3.5 7a6.5 6.5 0 1 1-13 0c0-3 2-5 3.5-7C11 7 12 4 13 2z"/></svg>';
   const fmtHeat = h => h + "万";
 
-  // 手动更新按钮：跳转到 GitHub Actions 的「Run workflow」页面，点一下即可触发一次抓取。
+  // 手动更新按钮：跳转到仓库的 Actions 页面，点「Run workflow」即可立刻抓取一次数据。
   // 改仓库名时只改这里即可。
   const REPO = "adsbun/emotion-daily";
   document.getElementById("btnUpdate").href =
-    "https://github.com/" + REPO + "/actions/workflows/update.yml";
+    "https://github.com/" + REPO + "/actions";
+
+  // 无原文链接时，按来源拼一个对应的第三方搜索/原帖地址，保证「查看原文」始终可跳转。
+  function buildSearchUrl(it) {
+    const q = encodeURIComponent(it.title || "");
+    const s = it.source || "";
+    if (s.includes("微博")) return "https://s.weibo.com/weibo?q=" + q;
+    if (s.includes("知乎")) return "https://www.zhihu.com/search?type=content&q=" + q;
+    if (s.includes("抖音")) return "https://www.douyin.com/search/" + q;
+    return "https://www.baidu.com/s?wd=" + encodeURIComponent((it.title || "") + " 情感话题");
+  }
 
   function render(data, cat) {
     document.getElementById("snapshot").textContent = data.snapshotDate || "—";
@@ -383,8 +393,14 @@
     document.getElementById("mDate").textContent = "快照：" + (lastData.snapshotDate || "—");
     document.getElementById("mBody").textContent = it.excerpt || "（暂无更多内容）";
     const link = document.getElementById("mLink");
-    if (it.url) { link.href = it.url; link.style.display = "inline-flex"; }
-    else { link.style.display = "none"; }
+    if (it.url) {
+      link.href = it.url;
+      link.textContent = "查看原文 ↗";
+    } else {
+      link.href = buildSearchUrl(it);
+      link.textContent = "在第三方搜索 ↗";
+    }
+    link.style.display = "inline-flex";
     document.getElementById("mask").classList.add("open");
   }
 
