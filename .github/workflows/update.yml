@@ -19,7 +19,7 @@ jobs:
         with:
           python-version: "3.11"
       - name: 抓取并生成数据
-        run: python fetch_news.py
+        run: python3 fetch_news.py
       - name: 提交更新
         run: |
           git config user.name "github-actions[bot]"
