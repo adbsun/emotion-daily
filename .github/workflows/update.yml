@@ -2,11 +2,12 @@ name: 更新情感热点数据
 
 on:
   schedule:
+    # 每 4 小时一次（避开整点，减少 GitHub 高峰限流）。如需更频繁，调小间隔即可。
     - cron: "17 */4 * * *"
-  workflow_dispatch: {}
+  workflow_dispatch: {}   # 允许在 Actions 页面手动触发一次
 
 permissions:
-  contents: write
+  contents: write        # 允许工作流把更新后的 news.json 提交回仓库
 
 jobs:
   update:
@@ -14,13 +15,16 @@ jobs:
     steps:
       - name: 拉取仓库
         uses: actions/checkout@v4
+
       - name: 配置 Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+
       - name: 抓取并生成数据
         run: python3 fetch_news.py
-      - name: 提交更新
+
+      - name: 提交更新（仅在有变化时报）
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
