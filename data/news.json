@@ -1,24 +1,15 @@
 {
   "snapshotDate": "2026-08-08",
-  "updateCountToday": 1,
+  "updateCountToday": 2,
   "items": [
-    {
-      "title": "殡仪馆回应情侣平潭拍日出坠崖",
-      "source": "微博热搜",
-      "heat": 16.5,
-      "excerpt": "",
-      "url": "https://s.weibo.com/weibo?q=%E6%AE%A1%E4%BB%AA%E9%A6%86%E5%9B%9E%E5%BA%94%E6%83%85%E4%BE%A3%E5%B9%B3%E6%BD%AD%E6%8B%8D%E6%97%A5%E5%87%BA%E5%9D%A0%E5%B4%96",
-      "category": "夫妻感情",
-      "rank": 1
-    },
     {
       "title": "男子出轨离婚后留给妻子千万债务",
       "source": "微博热搜",
-      "heat": 15.8,
+      "heat": 14.4,
       "excerpt": "",
       "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E5%87%BA%E8%BD%A8%E7%A6%BB%E5%A9%9A%E5%90%8E%E7%95%99%E7%BB%99%E5%A6%BB%E5%AD%90%E5%8D%83%E4%B8%87%E5%80%BA%E5%8A%A1",
       "category": "夫妻感情",
-      "rank": 2
+      "rank": 1
     }
   ]
 }
