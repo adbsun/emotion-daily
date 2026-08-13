@@ -1,33 +1,42 @@
 {
   "snapshotDate": "2026-08-12",
-  "updateCountToday": 5,
+  "updateCountToday": 6,
   "items": [
     {
-      "title": "男子健身房指导女友被要求看结婚证",
+      "title": "结婚登记好像也没多大意义",
       "source": "微博热搜",
-      "heat": 16.8,
+      "heat": 3.8,
       "excerpt": "",
-      "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E5%81%A5%E8%BA%AB%E6%88%BF%E6%8C%87%E5%AF%BC%E5%A5%B3%E5%8F%8B%E8%A2%AB%E8%A6%81%E6%B1%82%E7%9C%8B%E7%BB%93%E5%A9%9A%E8%AF%81",
+      "url": "https://s.weibo.com/weibo?q=%E7%BB%93%E5%A9%9A%E7%99%BB%E8%AE%B0%E5%A5%BD%E5%83%8F%E4%B9%9F%E6%B2%A1%E5%A4%9A%E5%A4%A7%E6%84%8F%E4%B9%89",
       "category": "婚姻",
       "rank": 1
     },
     {
-      "title": "结婚登记好像也没多大意义",
+      "title": "男子健身房指导女友被要求看结婚证",
       "source": "微博热搜",
-      "heat": 16.8,
+      "heat": 3.8,
       "excerpt": "",
-      "url": "https://s.weibo.com/weibo?q=%E7%BB%93%E5%A9%9A%E7%99%BB%E8%AE%B0%E5%A5%BD%E5%83%8F%E4%B9%9F%E6%B2%A1%E5%A4%9A%E5%A4%A7%E6%84%8F%E4%B9%89",
+      "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E5%81%A5%E8%BA%AB%E6%88%BF%E6%8C%87%E5%AF%BC%E5%A5%B3%E5%8F%8B%E8%A2%AB%E8%A6%81%E6%B1%82%E7%9C%8B%E7%BB%93%E5%A9%9A%E8%AF%81",
       "category": "婚姻",
       "rank": 2
     },
     {
       "title": "小伙投诉核磁震坏身体影响夫妻生活",
       "source": "微博热搜",
-      "heat": 13.9,
+      "heat": 3.8,
       "excerpt": "",
       "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E4%BC%99%E6%8A%95%E8%AF%89%E6%A0%B8%E7%A3%81%E9%9C%87%E5%9D%8F%E8%BA%AB%E4%BD%93%E5%BD%B1%E5%93%8D%E5%A4%AB%E5%A6%BB%E7%94%9F%E6%B4%BB",
       "category": "夫妻感情",
       "rank": 3
+    },
+    {
+      "title": "胚胎案妻子说期待法律公正结果",
+      "source": "微博热搜",
+      "heat": 3.8,
+      "excerpt": "",
+      "url": "https://s.weibo.com/weibo?q=%E8%83%9A%E8%83%8E%E6%A1%88%E5%A6%BB%E5%AD%90%E8%AF%B4%E6%9C%9F%E5%BE%85%E6%B3%95%E5%BE%8B%E5%85%AC%E6%AD%A3%E7%BB%93%E6%9E%9C",
+      "category": "夫妻感情",
+      "rank": 4
     }
   ]
 }
