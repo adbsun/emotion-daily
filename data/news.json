@@ -1,42 +1,15 @@
 {
   "snapshotDate": "2026-08-13",
-  "updateCountToday": 1,
+  "updateCountToday": 2,
   "items": [
     {
       "title": "银行能办结婚证了",
       "source": "微博热搜",
-      "heat": 135.0,
+      "heat": 60.1,
       "excerpt": "",
       "url": "https://s.weibo.com/weibo?q=%E9%93%B6%E8%A1%8C%E8%83%BD%E5%8A%9E%E7%BB%93%E5%A9%9A%E8%AF%81%E4%BA%86",
       "category": "婚姻",
       "rank": 1
-    },
-    {
-      "title": "姜潮 我也是第一次结婚",
-      "source": "微博热搜",
-      "heat": 18.2,
-      "excerpt": "",
-      "url": "https://s.weibo.com/weibo?q=%E5%A7%9C%E6%BD%AE%20%E6%88%91%E4%B9%9F%E6%98%AF%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%BB%93%E5%A9%9A",
-      "category": "婚姻",
-      "rank": 2
-    },
-    {
-      "title": "结婚登记好像也没多大意义",
-      "source": "微博热搜",
-      "heat": 17.8,
-      "excerpt": "",
-      "url": "https://s.weibo.com/weibo?q=%E7%BB%93%E5%A9%9A%E7%99%BB%E8%AE%B0%E5%A5%BD%E5%83%8F%E4%B9%9F%E6%B2%A1%E5%A4%9A%E5%A4%A7%E6%84%8F%E4%B9%89",
-      "category": "婚姻",
-      "rank": 3
-    },
-    {
-      "title": "男子健身房指导女友被要求看结婚证",
-      "source": "微博热搜",
-      "heat": 14.8,
-      "excerpt": "",
-      "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E5%81%A5%E8%BA%AB%E6%88%BF%E6%8C%87%E5%AF%BC%E5%A5%B3%E5%8F%8B%E8%A2%AB%E8%A6%81%E6%B1%82%E7%9C%8B%E7%BB%93%E5%A9%9A%E8%AF%81",
-      "category": "婚姻",
-      "rank": 4
     }
   ]
 }
