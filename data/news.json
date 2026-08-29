@@ -1,24 +1,15 @@
 {
   "snapshotDate": "2026-08-28",
-  "updateCountToday": 2,
+  "updateCountToday": 4,
   "items": [
     {
-      "title": "所有感情好的情侣都有一个共同点",
+      "title": "男子婚后第三天自愿给房子加妻子名字",
       "source": "微博热搜",
-      "heat": 63.7,
+      "heat": 25.5,
       "excerpt": "",
-      "url": "https://s.weibo.com/weibo?q=%E6%89%80%E6%9C%89%E6%84%9F%E6%83%85%E5%A5%BD%E7%9A%84%E6%83%85%E4%BE%A3%E9%83%BD%E6%9C%89%E4%B8%80%E4%B8%AA%E5%85%B1%E5%90%8C%E7%82%B9",
+      "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E5%A9%9A%E5%90%8E%E7%AC%AC%E4%B8%89%E5%A4%A9%E8%87%AA%E6%84%BF%E7%BB%99%E6%88%BF%E5%AD%90%E5%8A%A0%E5%A6%BB%E5%AD%90%E5%90%8D%E5%AD%97",
       "category": "夫妻感情",
       "rank": 1
-    },
-    {
-      "title": "离婚被驳13天后女子被丈夫杀害",
-      "source": "微博热搜",
-      "heat": 18.6,
-      "excerpt": "",
-      "url": "https://s.weibo.com/weibo?q=%E7%A6%BB%E5%A9%9A%E8%A2%AB%E9%A9%B313%E5%A4%A9%E5%90%8E%E5%A5%B3%E5%AD%90%E8%A2%AB%E4%B8%88%E5%A4%AB%E6%9D%80%E5%AE%B3",
-      "category": "夫妻感情",
-      "rank": 2
     }
   ]
 }
