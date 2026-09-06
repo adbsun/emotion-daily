@@ -1,15 +1,24 @@
 {
   "snapshotDate": "2026-09-05",
-  "updateCountToday": 5,
+  "updateCountToday": 6,
   "items": [
     {
       "title": "婚内强奸案男子性侵妻子拍下视频",
       "source": "微博热搜",
-      "heat": 9.5,
+      "heat": 8.5,
       "excerpt": "",
       "url": "https://s.weibo.com/weibo?q=%E5%A9%9A%E5%86%85%E5%BC%BA%E5%A5%B8%E6%A1%88%E7%94%B7%E5%AD%90%E6%80%A7%E4%BE%B5%E5%A6%BB%E5%AD%90%E6%8B%8D%E4%B8%8B%E8%A7%86%E9%A2%91",
       "category": "夫妻感情",
       "rank": 1
+    },
+    {
+      "title": "婚内强奸案妻子曾两度报警求助",
+      "source": "微博热搜",
+      "heat": 3.1,
+      "excerpt": "",
+      "url": "https://s.weibo.com/weibo?q=%E5%A9%9A%E5%86%85%E5%BC%BA%E5%A5%B8%E6%A1%88%E5%A6%BB%E5%AD%90%E6%9B%BE%E4%B8%A4%E5%BA%A6%E6%8A%A5%E8%AD%A6%E6%B1%82%E5%8A%A9",
+      "category": "夫妻感情",
+      "rank": 2
     }
   ]
 }
