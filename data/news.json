@@ -1,14 +1,14 @@
 {
   "snapshotDate": "2026-09-07",
-  "updateCountToday": 5,
+  "updateCountToday": 6,
   "items": [
     {
-      "title": "A股现54亿天价离婚",
+      "title": "孩子写作业千万别只开台灯",
       "source": "微博热搜",
-      "heat": 4.6,
+      "heat": 6.6,
       "excerpt": "",
-      "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E7%8E%B054%E4%BA%BF%E5%A4%A9%E4%BB%B7%E7%A6%BB%E5%A9%9A",
-      "category": "婚姻",
+      "url": "https://s.weibo.com/weibo?q=%E5%AD%A9%E5%AD%90%E5%86%99%E4%BD%9C%E4%B8%9A%E5%8D%83%E4%B8%87%E5%88%AB%E5%8F%AA%E5%BC%80%E5%8F%B0%E7%81%AF",
+      "category": "育儿",
       "rank": 1
     }
   ]
