@@ -1,33 +1,24 @@
 {
   "snapshotDate": "2026-09-08",
-  "updateCountToday": 4,
+  "updateCountToday": 5,
   "items": [
     {
-      "title": "赖冠霖疑似结婚了",
+      "title": "痞幼说以结婚为目的恋爱是不负责任",
       "source": "微博热搜",
-      "heat": 21.2,
+      "heat": 7.6,
       "excerpt": "",
-      "url": "https://s.weibo.com/weibo?q=%E8%B5%96%E5%86%A0%E9%9C%96%E7%96%91%E4%BC%BC%E7%BB%93%E5%A9%9A%E4%BA%86",
+      "url": "https://s.weibo.com/weibo?q=%E7%97%9E%E5%B9%BC%E8%AF%B4%E4%BB%A5%E7%BB%93%E5%A9%9A%E4%B8%BA%E7%9B%AE%E7%9A%84%E6%81%8B%E7%88%B1%E6%98%AF%E4%B8%8D%E8%B4%9F%E8%B4%A3%E4%BB%BB",
       "category": "婚姻",
       "rank": 1
     },
     {
-      "title": "高圆圆说在结婚后的几年是痛苦的",
+      "title": "结婚40年丈夫把第三者藏家里储藏室",
       "source": "微博热搜",
-      "heat": 21.2,
+      "heat": 7.1,
       "excerpt": "",
-      "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E5%9C%86%E5%9C%86%E8%AF%B4%E5%9C%A8%E7%BB%93%E5%A9%9A%E5%90%8E%E7%9A%84%E5%87%A0%E5%B9%B4%E6%98%AF%E7%97%9B%E8%8B%A6%E7%9A%84",
-      "category": "婚姻",
-      "rank": 2
-    },
-    {
-      "title": "夫妻分尸时妻子还怀有身孕",
-      "source": "微博热搜",
-      "heat": 21.2,
-      "excerpt": "",
-      "url": "https://s.weibo.com/weibo?q=%E5%A4%AB%E5%A6%BB%E5%88%86%E5%B0%B8%E6%97%B6%E5%A6%BB%E5%AD%90%E8%BF%98%E6%80%80%E6%9C%89%E8%BA%AB%E5%AD%95",
+      "url": "https://s.weibo.com/weibo?q=%E7%BB%93%E5%A9%9A40%E5%B9%B4%E4%B8%88%E5%A4%AB%E6%8A%8A%E7%AC%AC%E4%B8%89%E8%80%85%E8%97%8F%E5%AE%B6%E9%87%8C%E5%82%A8%E8%97%8F%E5%AE%A4",
       "category": "夫妻感情",
-      "rank": 3
+      "rank": 2
     }
   ]
 }
