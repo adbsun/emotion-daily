@@ -1,24 +1,15 @@
 {
   "snapshotDate": "2026-09-15",
-  "updateCountToday": 2,
+  "updateCountToday": 4,
   "items": [
     {
       "title": "曝许嵩冯禧结婚了",
       "source": "微博热搜",
-      "heat": 46.4,
+      "heat": 20.9,
       "excerpt": "",
       "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E8%AE%B8%E5%B5%A9%E5%86%AF%E7%A6%A7%E7%BB%93%E5%A9%9A%E4%BA%86",
       "category": "婚姻",
       "rank": 1
-    },
-    {
-      "title": "戒网瘾机构把家长当客户孩子当产品",
-      "source": "微博热搜",
-      "heat": 37.8,
-      "excerpt": "",
-      "url": "https://s.weibo.com/weibo?q=%E6%88%92%E7%BD%91%E7%98%BE%E6%9C%BA%E6%9E%84%E6%8A%8A%E5%AE%B6%E9%95%BF%E5%BD%93%E5%AE%A2%E6%88%B7%E5%AD%A9%E5%AD%90%E5%BD%93%E4%BA%A7%E5%93%81",
-      "category": "育儿",
-      "rank": 2
     }
   ]
 }
