@@ -1,15 +1,24 @@
 {
   "snapshotDate": "2026-10-01",
-  "updateCountToday": 4,
+  "updateCountToday": 6,
   "items": [
     {
       "title": "墨尔本车祸致中国夫妻身亡",
       "source": "微博热搜",
-      "heat": 28.2,
+      "heat": 6.8,
       "excerpt": "",
       "url": "https://s.weibo.com/weibo?q=%E5%A2%A8%E5%B0%94%E6%9C%AC%E8%BD%A6%E7%A5%B8%E8%87%B4%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%BB%E8%BA%AB%E4%BA%A1",
       "category": "夫妻感情",
       "rank": 1
+    },
+    {
+      "title": "亲密关系甚至不如上班尊重人",
+      "source": "微博热搜",
+      "heat": 5.1,
+      "excerpt": "",
+      "url": "https://s.weibo.com/weibo?q=%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB%E7%94%9A%E8%87%B3%E4%B8%8D%E5%A6%82%E4%B8%8A%E7%8F%AD%E5%B0%8A%E9%87%8D%E4%BA%BA",
+      "category": "夫妻感情",
+      "rank": 2
     }
   ]
 }
