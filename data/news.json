@@ -1,33 +1,42 @@
 {
   "snapshotDate": "2026-10-05",
-  "updateCountToday": 5,
+  "updateCountToday": 6,
   "items": [
     {
       "title": "曝邓紫棋结婚",
       "source": "微博热搜",
-      "heat": 8.8,
+      "heat": 11.8,
       "excerpt": "",
       "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E9%82%93%E7%B4%AB%E6%A3%8B%E7%BB%93%E5%A9%9A",
       "category": "婚姻",
       "rank": 1
     },
     {
-      "title": "罗老师结婚了",
+      "title": "父母以为结婚是这样的",
       "source": "微博热搜",
-      "heat": 8.2,
+      "heat": 9.7,
       "excerpt": "",
-      "url": "https://s.weibo.com/weibo?q=%E7%BD%97%E8%80%81%E5%B8%88%E7%BB%93%E5%A9%9A%E4%BA%86",
+      "url": "https://s.weibo.com/weibo?q=%E7%88%B6%E6%AF%8D%E4%BB%A5%E4%B8%BA%E7%BB%93%E5%A9%9A%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84",
       "category": "婚姻",
       "rank": 2
     },
     {
-      "title": "父母以为结婚是这样的",
+      "title": "罗老师结婚了",
       "source": "微博热搜",
-      "heat": 8.2,
+      "heat": 9.6,
       "excerpt": "",
-      "url": "https://s.weibo.com/weibo?q=%E7%88%B6%E6%AF%8D%E4%BB%A5%E4%B8%BA%E7%BB%93%E5%A9%9A%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84",
+      "url": "https://s.weibo.com/weibo?q=%E7%BD%97%E8%80%81%E5%B8%88%E7%BB%93%E5%A9%9A%E4%BA%86",
       "category": "婚姻",
       "rank": 3
+    },
+    {
+      "title": "男子与妻子一起将小22岁女友告上法庭",
+      "source": "微博热搜",
+      "heat": 8.3,
+      "excerpt": "",
+      "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E4%B8%8E%E5%A6%BB%E5%AD%90%E4%B8%80%E8%B5%B7%E5%B0%86%E5%B0%8F22%E5%B2%81%E5%A5%B3%E5%8F%8B%E5%91%8A%E4%B8%8A%E6%B3%95%E5%BA%AD",
+      "category": "夫妻感情",
+      "rank": 4
     }
   ]
 }
