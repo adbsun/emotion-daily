@@ -1,15 +1,24 @@
 {
   "snapshotDate": "2026-10-06",
-  "updateCountToday": 4,
+  "updateCountToday": 6,
   "items": [
+    {
+      "title": "建议女孩子多用原相机拍照",
+      "source": "微博热搜",
+      "heat": 17.7,
+      "excerpt": "",
+      "url": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A5%B3%E5%AD%A9%E5%AD%90%E5%A4%9A%E7%94%A8%E5%8E%9F%E7%9B%B8%E6%9C%BA%E6%8B%8D%E7%85%A7",
+      "category": "育儿",
+      "rank": 1
+    },
     {
       "title": "曝王晓慧有孩子了",
       "source": "微博热搜",
-      "heat": 48.6,
+      "heat": 5.3,
       "excerpt": "",
       "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E7%8E%8B%E6%99%93%E6%85%A7%E6%9C%89%E5%AD%A9%E5%AD%90%E4%BA%86",
       "category": "育儿",
-      "rank": 1
+      "rank": 2
     }
   ]
 }
