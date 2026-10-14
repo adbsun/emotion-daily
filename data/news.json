@@ -1,15 +1,24 @@
 {
-  "snapshotDate": "2026-10-12",
-  "updateCountToday": 6,
+  "snapshotDate": "2026-10-13",
+  "updateCountToday": 2,
   "items": [
     {
-      "title": "余梦结婚了老公还是你爸爸",
+      "title": "赚钱不行大概率搞不定家庭",
       "source": "微博热搜",
-      "heat": 8.5,
+      "heat": 23.2,
       "excerpt": "",
-      "url": "https://s.weibo.com/weibo?q=%E4%BD%99%E6%A2%A6%E7%BB%93%E5%A9%9A%E4%BA%86%E8%80%81%E5%85%AC%E8%BF%98%E6%98%AF%E4%BD%A0%E7%88%B8%E7%88%B8",
-      "category": "婚姻",
+      "url": "https://s.weibo.com/weibo?q=%E8%B5%9A%E9%92%B1%E4%B8%8D%E8%A1%8C%E5%A4%A7%E6%A6%82%E7%8E%87%E6%90%9E%E4%B8%8D%E5%AE%9A%E5%AE%B6%E5%BA%AD",
+      "category": "夫妻感情",
       "rank": 1
+    },
+    {
+      "title": "结婚16年丈夫给第三者转账700万",
+      "source": "微博热搜",
+      "heat": 18.1,
+      "excerpt": "",
+      "url": "https://s.weibo.com/weibo?q=%E7%BB%93%E5%A9%9A16%E5%B9%B4%E4%B8%88%E5%A4%AB%E7%BB%99%E7%AC%AC%E4%B8%89%E8%80%85%E8%BD%AC%E8%B4%A6700%E4%B8%87",
+      "category": "夫妻感情",
+      "rank": 2
     }
   ]
 }
