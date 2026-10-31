@@ -1,24 +1,15 @@
 {
-  "snapshotDate": "2026-10-29",
-  "updateCountToday": 6,
+  "snapshotDate": "2026-10-30",
+  "updateCountToday": 2,
   "items": [
     {
-      "title": "姜乘澜结婚了",
+      "title": "出轨丈夫说原配生的小儿子没用",
       "source": "微博热搜",
-      "heat": 5.0,
+      "heat": 15.0,
       "excerpt": "",
-      "url": "https://s.weibo.com/weibo?q=%E5%A7%9C%E4%B9%98%E6%BE%9C%E7%BB%93%E5%A9%9A%E4%BA%86",
-      "category": "婚姻",
-      "rank": 1
-    },
-    {
-      "title": "蔡磊妻子落泪称不甘心",
-      "source": "微博热搜",
-      "heat": 4.2,
-      "excerpt": "",
-      "url": "https://s.weibo.com/weibo?q=%E8%94%A1%E7%A3%8A%E5%A6%BB%E5%AD%90%E8%90%BD%E6%B3%AA%E7%A7%B0%E4%B8%8D%E7%94%98%E5%BF%83",
+      "url": "https://s.weibo.com/weibo?q=%E5%87%BA%E8%BD%A8%E4%B8%88%E5%A4%AB%E8%AF%B4%E5%8E%9F%E9%85%8D%E7%94%9F%E7%9A%84%E5%B0%8F%E5%84%BF%E5%AD%90%E6%B2%A1%E7%94%A8",
       "category": "夫妻感情",
-      "rank": 2
+      "rank": 1
     }
   ]
 }
