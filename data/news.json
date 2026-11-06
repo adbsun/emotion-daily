@@ -1,15 +1,24 @@
 {
   "snapshotDate": "2026-11-05",
-  "updateCountToday": 4,
+  "updateCountToday": 6,
   "items": [
+    {
+      "title": "没本事但听话的婚姻没内耗",
+      "source": "微博热搜",
+      "heat": 16.2,
+      "excerpt": "",
+      "url": "https://s.weibo.com/weibo?q=%E6%B2%A1%E6%9C%AC%E4%BA%8B%E4%BD%86%E5%90%AC%E8%AF%9D%E7%9A%84%E5%A9%9A%E5%A7%BB%E6%B2%A1%E5%86%85%E8%80%97",
+      "category": "婚姻",
+      "rank": 1
+    },
     {
       "title": "曝乔欣有孩子了",
       "source": "微博热搜",
-      "heat": 38.4,
+      "heat": 3.8,
       "excerpt": "",
       "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E4%B9%94%E6%AC%A3%E6%9C%89%E5%AD%A9%E5%AD%90%E4%BA%86",
       "category": "育儿",
-      "rank": 1
+      "rank": 2
     }
   ]
 }
