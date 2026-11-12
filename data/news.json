@@ -1,24 +1,15 @@
 {
-  "snapshotDate": "2026-11-10",
-  "updateCountToday": 6,
+  "snapshotDate": "2026-11-11",
+  "updateCountToday": 2,
   "items": [
     {
-      "title": "霍启山娜然 结婚",
+      "title": "女子产后遭丈夫拒门外每月药费6千",
       "source": "微博热搜",
-      "heat": 8.8,
+      "heat": 40.8,
       "excerpt": "",
-      "url": "https://s.weibo.com/weibo?q=%E9%9C%8D%E5%90%AF%E5%B1%B1%E5%A8%9C%E7%84%B6%20%E7%BB%93%E5%A9%9A",
-      "category": "婚姻",
+      "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E4%BA%A7%E5%90%8E%E9%81%AD%E4%B8%88%E5%A4%AB%E6%8B%92%E9%97%A8%E5%A4%96%E6%AF%8F%E6%9C%88%E8%8D%AF%E8%B4%B96%E5%8D%83",
+      "category": "夫妻感情",
       "rank": 1
-    },
-    {
-      "title": "我生完孩子爸妈才过上好日子",
-      "source": "微博热搜",
-      "heat": 6.1,
-      "excerpt": "",
-      "url": "https://s.weibo.com/weibo?q=%E6%88%91%E7%94%9F%E5%AE%8C%E5%AD%A9%E5%AD%90%E7%88%B8%E5%A6%88%E6%89%8D%E8%BF%87%E4%B8%8A%E5%A5%BD%E6%97%A5%E5%AD%90",
-      "category": "育儿",
-      "rank": 2
     }
   ]
 }
