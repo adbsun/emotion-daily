@@ -1,15 +1,24 @@
 {
-  "snapshotDate": "2026-11-22",
-  "updateCountToday": 6,
+  "snapshotDate": "2026-11-23",
+  "updateCountToday": 2,
   "items": [
     {
-      "title": "虞书欣何与提名最佳海外情侣奖",
+      "title": "婆婆拎10万现金铺满产妇病床",
       "source": "微博热搜",
-      "heat": 5.3,
+      "heat": 91.8,
       "excerpt": "",
-      "url": "https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%BD%95%E4%B8%8E%E6%8F%90%E5%90%8D%E6%9C%80%E4%BD%B3%E6%B5%B7%E5%A4%96%E6%83%85%E4%BE%A3%E5%A5%96",
-      "category": "夫妻感情",
+      "url": "https://s.weibo.com/weibo?q=%E5%A9%86%E5%A9%86%E6%8B%8E10%E4%B8%87%E7%8E%B0%E9%87%91%E9%93%BA%E6%BB%A1%E4%BA%A7%E5%A6%87%E7%97%85%E5%BA%8A",
+      "category": "婚姻",
       "rank": 1
+    },
+    {
+      "title": "家庭群最不吃压力的人",
+      "source": "微博热搜",
+      "heat": 28.6,
+      "excerpt": "",
+      "url": "https://s.weibo.com/weibo?q=%E5%AE%B6%E5%BA%AD%E7%BE%A4%E6%9C%80%E4%B8%8D%E5%90%83%E5%8E%8B%E5%8A%9B%E7%9A%84%E4%BA%BA",
+      "category": "夫妻感情",
+      "rank": 2
     }
   ]
 }
